@@ -36,6 +36,23 @@ A production-grade GIS data pipeline prototype showcasing modern data engineerin
 
 Built with: Python • Apache Airflow • Kubernetes • Helm • Docker • AWS S3 • Grafana
 
+#### [py2arts](https://github.com/SaeedHK/py2arts)
+Generative art through mathematical algorithms - where mathematics meets creative expression:
+- Space-filling curve visualizations (mazes, weaves, intricate patterns)
+- Algorithmic art generation using recursive geometric transformations
+- Pure Python implementation with matplotlib for rendering
+- Demonstrates the aesthetic beauty emerging from mathematical structures
+
+Built with: Python • Mathematics • Algorithmic Art
+
+<details>
+<summary>🎨 Sample Outputs</summary>
+
+![Maze](https://raw.githubusercontent.com/SaeedHK/py2arts/main/samples/Maze_20240120070139.png)
+![Weaved](https://raw.githubusercontent.com/SaeedHK/py2arts/main/samples/Weaved_20240121172557.png)
+
+</details>
+
 ### 🔬 Research & Publications
 My research focuses on optimal control theory and more specifically on mean field games. You can find my academic work on [LinkedIn](https://linkedin.com/in/saeed-hadikhanloo).
 
