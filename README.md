@@ -45,13 +45,6 @@ Generative art through mathematical algorithms - where mathematics meets creativ
 
 Built with: Python • Mathematics • Algorithmic Art
 
-<details>
-<summary>🎨 Sample Outputs</summary>
-
-![Maze](https://raw.githubusercontent.com/SaeedHK/py2arts/main/samples/Maze_20240120070139.png)
-![Weaved](https://raw.githubusercontent.com/SaeedHK/py2arts/main/samples/Weaved_20240121172557.png)
-
-</details>
 
 ### 🔬 Research & Publications
 My research focuses on optimal control theory and more specifically on mean field games. You can find my academic work on [LinkedIn](https://linkedin.com/in/saeed-hadikhanloo).
