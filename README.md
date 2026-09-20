@@ -47,9 +47,10 @@ Built with: Python • Mathematics • Algorithmic Art
 
 
 ### 🔬 Research & Publications
-My research focuses on optimal control theory and more specifically on mean field games. You can find my academic work on [LinkedIn](https://linkedin.com/in/saeed-hadikhanloo).
+My research focuses on optimal control theory and more specifically on mean field games. You can find my publications and citations on [Google Scholar](https://scholar.google.com/citations?hl=en&user=rhNzHnAAAAAJ).
 
 ### 📫 Get in Touch
 - **Email**: saeed.hadikhanloo@gmail.com
 - **LinkedIn**: [linkedin.com/in/saeed-hadikhanloo](https://linkedin.com/in/saeed-hadikhanloo)
+- **Google Scholar**: [scholar.google.com/citations?user=rhNzHnAAAAAJ](https://scholar.google.com/citations?hl=en&user=rhNzHnAAAAAJ)
 - **Location**: Paris, France 🇫🇷
